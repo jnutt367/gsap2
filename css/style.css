@@ -12,7 +12,8 @@
     display: grid;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
+    text-shadow: 3px 2px white;
     font-size: 30px;
 }
 
@@ -42,4 +43,20 @@
 
 .pink {
     background-color: pink;
+}
+
+.black {
+    background-color: black;
+}
+
+.aliceblue {
+    background-color: aliceblue;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.yellow {
+    background-color: yellow;
 }
