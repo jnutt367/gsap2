@@ -19,6 +19,7 @@
 
 .orange {
     background-color: orange;
+    color: red;
 }
 
 .green {
@@ -27,10 +28,12 @@
 
 .blue {
     background-color: blue;
+    color: chocolate;
 }
 
 .red {
     background-color: red;
+    color: cornsilk;
 }
 
 .skyblue {
@@ -39,6 +42,8 @@
 
 .purple {
     background-color: purple;
+    color: cornsilk;
+    text-shadow: 2px 2px black;
 }
 
 .pink {
@@ -51,6 +56,8 @@
 
 .aliceblue {
     background-color: aliceblue;
+    border-radius: 50%;
+    border: 2px solid black;
 }
 
 .teal {
@@ -59,4 +66,8 @@
 
 .yellow {
     background-color: yellow;
+}
+
+.grey {
+    background-color: grey;
 }
